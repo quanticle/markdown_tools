@@ -1,4 +1,4 @@
-#! /usr/bin/python3
+#! /usr/bin/env python3
 
 # four_to_two is a little script that takes markdown text with 4-space indents on stdin and writes 2-space indented 
 # markdown on stdout
