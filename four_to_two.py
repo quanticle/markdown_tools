@@ -19,9 +19,11 @@ def four_to_two(line):
     else:
         return line.strip()
 
+
 def print_usage_and_exit():
     print("Usage: four_to_two.py <input_file> <output_file>")
     sys.exit(1)
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
